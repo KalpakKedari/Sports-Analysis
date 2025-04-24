@@ -1,0 +1,101 @@
+date,player,team,opponent_team,position,score,assists,goals,match_result
+7/22/2023,LeBron,Bayern,Atletico,Forward,2,7,3,Draw
+4/26/2023,Durant,Man City,Atletico,Midfielder,16,10,2,Draw
+11/22/2023,Ronaldo,Man City,Celtics,Guard,13,9,4,Draw
+3/9/2023,Jokic,Man City,Man Utd,Forward,22,1,3,Draw
+6/12/2023,Haaland,Barcelona,Clippers,Goalkeeper,28,10,2,Draw
+11/5/2023,Curry,Man City,Liverpool,Guard,21,8,1,Draw
+2/18/2023,Neymar,Nuggets,Heat,Defender,6,3,4,Loss
+4/11/2023,Curry,Bucks,Man Utd,Center,15,2,5,Win
+1/7/2023,Durant,Lakers,Spurs,Goalkeeper,33,0,0,Win
+11/24/2023,Haaland,Lakers,Heat,Guard,13,4,4,Draw
+10/11/2023,Giannis,Nuggets,Heat,Midfielder,20,8,3,Loss
+6/7/2023,Curry,Real Madrid,Dortmund,Midfielder,7,6,1,Loss
+9/30/2023,Jokic,Lakers,Man Utd,Goalkeeper,50,0,2,Win
+12/11/2023,Durant,Nuggets,Liverpool,Center,39,5,0,Draw
+9/13/2023,Messi,Bucks,Clippers,Guard,9,1,2,Win
+9/21/2023,LeBron,Warriors,Heat,Midfielder,11,1,5,Win
+6/11/2023,Curry,Bucks,Clippers,Defender,19,5,4,Draw
+2/4/2023,Curry,Lakers,Atletico,Forward,14,8,4,Loss
+7/21/2023,Jokic,Bayern,Inter Milan,Goalkeeper,14,5,5,Draw
+1/26/2023,Durant,Barcelona,Arsenal,Goalkeeper,2,6,0,Win
+11/21/2023,Curry,Nuggets,Inter Milan,Goalkeeper,34,4,4,Loss
+7/8/2023,Messi,Real Madrid,Spurs,Center,41,3,0,Loss
+11/21/2023,Durant,Nuggets,Clippers,Center,5,4,1,Draw
+3/6/2023,Curry,Bucks,Celtics,Midfielder,27,6,4,Win
+8/14/2023,LeBron,Bayern,Dortmund,Defender,1,0,5,Loss
+7/18/2023,Messi,Nuggets,Dortmund,Goalkeeper,35,1,0,Win
+6/24/2023,Durant,Chelsea,Atletico,Midfielder,7,9,4,Loss
+11/12/2023,Durant,Lakers,Heat,Midfielder,36,6,3,Win
+6/25/2023,Curry,Bucks,Clippers,Center,4,3,0,Draw
+6/19/2023,Mbappe,Real Madrid,Atletico,Midfielder,27,10,3,Draw
+12/30/2023,Haaland,Real Madrid,Arsenal,Defender,38,4,2,Draw
+3/29/2023,LeBron,Real Madrid,Dortmund,Goalkeeper,17,1,2,Win
+2/24/2023,LeBron,Warriors,Arsenal,Center,21,4,4,Win
+3/15/2023,Durant,Nuggets,Inter Milan,Defender,19,6,0,Loss
+5/6/2023,LeBron,Chelsea,Liverpool,Defender,39,3,5,Win
+9/23/2023,Messi,Lakers,Man Utd,Center,49,8,0,Loss
+7/25/2023,Messi,Nuggets,Arsenal,Midfielder,27,5,2,Draw
+4/17/2023,Mbappe,Nuggets,Celtics,Midfielder,11,2,0,Draw
+9/20/2023,Mbappe,Barcelona,Inter Milan,Midfielder,22,6,2,Loss
+4/15/2023,Durant,Lakers,Atletico,Defender,24,7,2,Loss
+11/8/2023,Curry,Bayern,Inter Milan,Center,21,4,4,Draw
+1/26/2023,Haaland,Warriors,Spurs,Midfielder,8,1,0,Loss
+5/25/2023,Haaland,Real Madrid,Atletico,Forward,43,6,1,Loss
+11/12/2023,Curry,Man City,Heat,Defender,1,9,1,Draw
+2/24/2023,Curry,Real Madrid,Arsenal,Guard,17,8,0,Loss
+2/14/2023,LeBron,Lakers,Heat,Goalkeeper,48,7,0,Loss
+9/29/2023,LeBron,Bucks,Liverpool,Center,15,8,5,Loss
+9/16/2023,Curry,Bayern,Man Utd,Goalkeeper,40,10,3,Loss
+6/4/2023,Giannis,Man City,Inter Milan,Forward,41,4,3,Draw
+3/13/2023,Giannis,Bayern,Inter Milan,Defender,15,6,1,Win
+11/9/2023,Giannis,Warriors,Arsenal,Guard,17,9,5,Loss
+7/11/2023,Messi,Barcelona,Dortmund,Center,29,9,3,Loss
+4/26/2023,LeBron,Lakers,Man Utd,Guard,45,0,3,Loss
+1/6/2023,Jokic,Real Madrid,Spurs,Defender,10,0,0,Draw
+10/6/2023,Neymar,Bucks,Dortmund,Center,48,0,2,Win
+2/20/2023,Giannis,Warriors,Heat,Defender,0,1,3,Loss
+1/9/2023,Giannis,Warriors,Heat,Midfielder,7,4,4,Loss
+8/22/2023,Ronaldo,PSG,Atletico,Goalkeeper,29,3,0,Loss
+9/1/2023,Ronaldo,Man City,Arsenal,Guard,10,5,0,Win
+6/27/2023,Curry,Bayern,Spurs,Forward,33,9,4,Win
+10/23/2023,Curry,Man City,Inter Milan,Center,45,1,3,Win
+6/1/2023,Mbappe,PSG,Inter Milan,Forward,16,8,5,Draw
+11/19/2023,Neymar,Barcelona,Atletico,Center,20,5,4,Draw
+11/18/2023,Giannis,PSG,Clippers,Midfielder,34,3,4,Draw
+5/13/2023,Messi,Chelsea,Spurs,Forward,35,6,3,Loss
+8/17/2023,Durant,Nuggets,Dortmund,Center,7,0,5,Loss
+8/13/2023,Messi,Lakers,Celtics,Forward,47,5,2,Loss
+8/18/2023,Jokic,Lakers,Atletico,Forward,30,3,5,Draw
+2/3/2023,Jokic,Chelsea,Dortmund,Guard,11,10,1,Loss
+6/13/2023,Mbappe,PSG,Dortmund,Goalkeeper,35,4,2,Win
+8/6/2023,Mbappe,Barcelona,Dortmund,Defender,1,9,5,Loss
+1/29/2023,Ronaldo,Nuggets,Clippers,Goalkeeper,10,1,5,Win
+7/14/2023,Messi,PSG,Dortmund,Defender,16,0,1,Loss
+10/10/2023,Mbappe,Nuggets,Arsenal,Midfielder,38,1,3,Win
+9/6/2023,Giannis,PSG,Heat,Midfielder,0,6,2,Loss
+9/22/2023,Mbappe,Barcelona,Man Utd,Forward,42,9,2,Draw
+2/8/2023,Curry,Barcelona,Dortmund,Defender,13,7,4,Loss
+6/12/2023,Neymar,Real Madrid,Atletico,Forward,6,7,2,Win
+7/22/2023,Curry,PSG,Liverpool,Center,44,5,1,Draw
+11/18/2023,Neymar,Warriors,Clippers,Forward,25,4,5,Loss
+9/18/2023,Messi,Warriors,Inter Milan,Center,45,7,2,Draw
+10/5/2023,Jokic,Real Madrid,Inter Milan,Center,39,6,4,Win
+9/14/2023,LeBron,Nuggets,Dortmund,Center,17,0,1,Draw
+11/3/2023,LeBron,Barcelona,Clippers,Defender,32,10,3,Loss
+3/22/2023,Messi,Man City,Atletico,Center,1,7,4,Loss
+12/23/2023,Messi,Man City,Celtics,Guard,10,8,0,Win
+5/27/2023,Giannis,PSG,Spurs,Midfielder,30,10,2,Loss
+4/3/2023,Messi,Chelsea,Heat,Guard,20,0,3,Loss
+1/25/2023,Durant,PSG,Celtics,Guard,40,7,2,Win
+9/2/2023,Durant,Warriors,Clippers,Midfielder,38,10,0,Loss
+3/6/2023,Durant,Lakers,Man Utd,Guard,46,7,2,Draw
+9/21/2023,Messi,Chelsea,Spurs,Defender,48,1,2,Draw
+11/28/2023,Curry,Barcelona,Celtics,Guard,2,0,4,Draw
+6/22/2023,Durant,Man City,Atletico,Goalkeeper,30,7,0,Win
+1/29/2023,Mbappe,PSG,Spurs,Midfielder,22,4,4,Draw
+6/28/2023,Haaland,Warriors,Heat,Forward,28,7,2,Loss
+11/3/2023,Messi,Warriors,Spurs,Goalkeeper,14,2,3,Loss
+2/13/2023,Durant,Chelsea,Liverpool,Guard,20,2,4,Draw
+6/18/2023,Neymar,Chelsea,Spurs,Center,9,0,3,Draw
+5/4/2023,Curry,Nuggets,Clippers,Center,25,4,0,Win
